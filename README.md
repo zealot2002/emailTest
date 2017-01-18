@@ -1,9 +1,9 @@
 # simpleEmailReport
 read data from db and send report by email with configued sender and receivers 
 
-1,config mail.ini
-2,import testdb.sql
+1,config mail.ini .   
+2,import testdb.sql .  
 3,run
 
 ##Screenshots
-![Screenshot 0](https://raw.github.com/MarkMjw/PullToRefresh/master/Screenshots/0.png)
+![Screenshot 0](https://raw.githubusercontent.com/zealot2002/simpleEmailReport/master/screenshot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-01-18%20%E4%B8%8A%E5%8D%8811.25.57.png)
