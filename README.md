@@ -1,7 +1,7 @@
 # simpleEmailReport
 read data from db and send report by email with configued sender and receivers 
 
-##Useage
+##Usage
 - config mail.ini .   
 - import testdb.sql .  
 - run
